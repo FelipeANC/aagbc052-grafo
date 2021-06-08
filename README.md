@@ -10,7 +10,7 @@ A seguir, teremos um inteiro C indicando o número de cores e C linhas com a des
 A saída consiste em um arquivo com várias linhas, onde cada linha representa a sequência de cores utilizada para colorir o grafo, seguida pelo número
 de cores utilizados, e o tempo de execução em milisegundos.  
 
-Como exemplo de entrada temos o arquivo [grafo05.txt](#grafo05.txt) e, saída, o arquivo [output05.txt](#output05.txt). O grafo representado nesse 
+Como exemplo de entrada temos o arquivo [grafo05.txt](grafo05.txt) e, saída, o arquivo [output05.txt](output05.txt). O grafo representado nesse 
 exemplo é o *Clebsch Graph* ([referência](https://mathworld.wolfram.com/ClebschGraph.html)).  
   
 O projeto consiste em 2 métodos para colorir o grafo: uma **busca em profundidade** e um **método auxiliar** para checar se uma cor pode ser aplicada a um vértice.  
