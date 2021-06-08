@@ -1,6 +1,6 @@
 # Algoritmos de aproximação - Coloração de vértices
 Em busca de uma solução ótima, foi desenvolvido um algoritmo para o problema de coloração de vértices.
-Uma descrição detalhada do problema, do projeto e dos resultados obtidos estão no [relatório](#AA_Trabalho_pratico_Felipe_Nunes.pdf) da atividade.
+Uma descrição detalhada do problema, do projeto e dos resultados obtidos estão no [relatório](AA_Trabalho_pratico_Felipe_Nunes.pdf) da atividade.
 
 > ### **Entrada**  
 A entrada consiste em um arquivo com várias linhas. A primeira linha contém dois inteiros *V, E* representando respectivamente o numero
